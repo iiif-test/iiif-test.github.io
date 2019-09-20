@@ -1,0 +1,24 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 1, 2 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 1344,
+    "height" : 1008
+  }, {
+    "width" : 2016,
+    "height" : 1512
+  }, {
+    "width" : 4032,
+    "height" : 3024
+  } ],
+  "profile" : "level0",
+  "width" : 4032,
+  "id" : "http://localhost:8887/iiif/van",
+  "type" : "ImageService3",
+  "@context" : "http://iiif.io/api/image/3/context.json",
+  "height" : 3024
+}
