@@ -15,10 +15,9 @@
     "width" : 4032,
     "height" : 3024
   } ],
-  "profile" : "level0",
+  "profile" : "http://iiif.io/api/image/2/level0.json",
   "width" : 4032,
-  "id" : "http://localhost:8887/iiif/van",
-  "type" : "ImageService3",
-  "@context" : "http://iiif.io/api/image/3/context.json",
+  "@id" : "http://localhost:8887/iiif/van",
+  "@context" : "http://iiif.io/api/image/2/context.json",
   "height" : 3024
 }
