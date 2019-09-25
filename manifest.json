@@ -1,6 +1,6 @@
 {
 	"@context": "http://iiif.io/api/presentation/2/context.json",
-	"@id": "http://88915e31-55fc-4f7e-81aa-452a1edaecf3",
+	"@id": "https://iiif-test.github.io/manifest.json",
 	"@type": "sc:Manifest",
 	"label": "Image from South Africa",
 	"metadata": [],
