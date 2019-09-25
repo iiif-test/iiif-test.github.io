@@ -1,0 +1,59 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://88915e31-55fc-4f7e-81aa-452a1edaecf3",
+	"@type": "sc:Manifest",
+	"label": "Image from South Africa",
+	"metadata": [],
+	"description": [
+		{
+			"@value": "[Click to edit description]",
+			"@language": "en"
+		}
+	],
+	"license": "https://creativecommons.org/licenses/by/3.0/",
+	"attribution": "[Click to edit attribution]",
+	"sequences": [
+		{
+			"@id": "http://15966b7d-ecb2-4cc9-a17f-ec77c64708f0",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://626842ed-7da0-4ef4-91f1-9cba03a137c5",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 3024,
+					"width": 4032,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://31a6054d-098a-4cb1-8aca-7e620d01c391",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif-test.github.io/iiif/image/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif-test.github.io/iiif/image",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 3024,
+								"width": 4032
+							},
+							"on": "http://626842ed-7da0-4ef4-91f1-9cba03a137c5"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": []
+}
