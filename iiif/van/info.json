@@ -17,7 +17,7 @@
   } ],
   "profile" : "http://iiif.io/api/image/2/level0.json",
   "width" : 4032,
-  "@id" : "http://localhost:8887/iiif/van",
+  "@id" : "https://iiif-test.github.io/iiif/van",
   "@context" : "http://iiif.io/api/image/2/context.json",
   "height" : 3024
 }
